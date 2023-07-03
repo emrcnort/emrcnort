@@ -1,5 +1,5 @@
 ![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)
-<h1 align="center">Hi 👋, I'm Emrecan Ortakcı</h1>
+<h1 align="center">Hi 👋 I'm Emrecan Ortakcı</h1>
 <h3 align="center">A web developer from Türkiye</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
 
