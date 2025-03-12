@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emrcnort&label=Profile%20views&color=0e75b6&style=flat" alt="emrcnort" /> </p>
 
-- 🔭 I’m currently working on **inventory-management**
+- 🔭 I’m currently working on **courier-tracking-app**
 
-- 🌱 I’m currently learning **React.js, Spring Cloud Technologies**
+- 🌱 I’m currently learning **Spring Cloud Technologies**
 
 - 💬 Ask me about **Spring Boot**
 
