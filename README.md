@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/emrecanortakci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emrecanortakci" height="30" width="40" /></a>
-<a href="https://medium.com/@emrcn.ort" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@emrcn.ort" height="30" width="40" /></a>
+<a href="https://medium.com/@ortakciemrecan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ortakciemrecan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
